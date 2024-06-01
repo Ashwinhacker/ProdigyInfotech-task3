@@ -1,4 +1,4 @@
-# ProdigyInfotech-task3
+#password complexity checker 
 
 A password complexity checker in Python is a script designed to assess the strength of passwords based on predefined criteria. It serves as a tool to evaluate whether a password is sufficiently robust to withstand common hacking attempts. Typically, such a checker examines factors like length, the presence of uppercase and lowercase letters, numbers, and special characters. Leveraging regular expressions, the script searches for these patterns within the password input to determine its strength.
 
